@@ -8,12 +8,14 @@
 
 The expansion of Large Language Models (LLMs) has driven breakthrough in Natural Language Processing (NLP) but raised concerns about <span style="color:blue">inference efficiency</span>, particularly latency, memory usage, and throughput.
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+<div style="text-align: center;">
   <figure style="text-align: center; margin: 0;">
     <img src="images/minibatch.png" alt="Description of image 1" width=""/>
     <figcaption>Figure 1: Mini-Batch Processing with Single-Input Single-Output (SISO)</figcaption>
   </figure>
-  
+</div>
+
+<div style="text-align: center;">
   <figure style="text-align: center; margin: 0;">
     <img src="images/datamux-pipeline.png" alt="Description of image 2" width=""/>
     <figcaption>Figure 2: Multi-Input Multi-Output (MIMO) with data multiplexing and demultiplexing</figcaption>
