@@ -11,6 +11,7 @@ The expansion of Large Language Models (LLMs) has driven breakthrough in Natural
 <div style="text-align: center;">
   <figure style="text-align: center; margin: 0;">
     <img src="images/minibatch.png" alt="Description of image 1" width=""/>
+    <br>
     <figcaption>Figure 1: Mini-Batch Processing with Single-Input Single-Output (SISO)</figcaption>
   </figure>
 </div>
@@ -18,6 +19,7 @@ The expansion of Large Language Models (LLMs) has driven breakthrough in Natural
 <div style="text-align: center;">
   <figure style="text-align: center; margin: 0;">
     <img src="images/datamux-pipeline.png" alt="Description of image 2" width=""/>
+    <br>
     <figcaption>Figure 2: Multi-Input Multi-Output (MIMO) with data multiplexing and demultiplexing</figcaption>
   </figure>
 </div>
