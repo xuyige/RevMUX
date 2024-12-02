@@ -2,6 +2,8 @@
 
 **Authors:** [Yige Xu](https://xuyige.github.io), [Xu Guo](https://guoxuxu.github.io/), [Zhiwei Zeng](https://scholar.google.com/citations?user=6eiLXmcAAAAJ), [Chunyan Miao](https://scholar.google.com/citations?user=fmXGRJgAAAAJ)
 
+[Paper](https://aclanthology.org/2024.emnlp-main.1232/)
+
 ---
 
 ## Overview
@@ -141,3 +143,22 @@ bash run_batch_inference_llama.sh  \
 `compose_size`: the number of instances mixed together.
 
 
+
+## Citation
+```
+@inproceedings{xu-etal-2024-revmux,
+    title = "{R}ev{MUX}: Data Multiplexing with Reversible Adapters for Efficient {LLM} Batch Inference",
+    author = "Xu, Yige  and
+      Guo, Xu  and
+      Zeng, Zhiwei  and
+      Miao, Chunyan",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.1232",
+    doi = "10.18653/v1/2024.emnlp-main.1232",
+    pages = "22072--22087",
+}
+```
